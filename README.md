@@ -41,8 +41,8 @@ Example Gameplay:
 
 ## Credits 
 @JarbasAl
-The Interactive Fiction Archive and the FROTZ project
-Infocom
+@The Interactive Fiction Archive and the FROTZ project
+@Infocom
 
 ## Category
 **Entertainment**
