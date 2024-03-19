@@ -1,4 +1,4 @@
-# <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/advanced-options/raw-svg/solid/dice.svg' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/> The Hitchhiker's Guide to the Galaxy
+# The Hitchhiker's Guide to the Galaxy
 
 Enjoy the classic Infocom adventure
 

@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-hhgg-game.jarbasai",
+  "source": "https://github.com/JarbasSkills/ovos-skill-hhgg-game",
+  "package_name": "ovos-skill-hhgg-game",
+  "extra_plugins": {
+    "core": [],
+    "PHAL": [],
+    "listener": [],
+    "audio": [],
+    "media": [],
+    "gui": []
+  },
+  "icon": "http://infocom.elsewhere.org/gallery/hhgttg/front_th.jpg",
+  "images": [],
+  "name": "Hitchiker's Guide to the Galaxy",
+  "description": "As the story begins, you are Arthur Dent, and a bulldozer is preparing to level your house even as an alien space fleet is preparing to level your planet. The incorrigible Mr. Adams has written new material and designed problems, especially for this interactive story. So grab a pint of bitter and a couple for the road and join Ford Prefect, Trillian, Zaphod Beeblebrox and Marvin on a cosmic jaunt into the outer reaches where anything can -- and does -- happen. And don't forget your towel!",
+  "examples": [
+    "play hitchiker guide to the galaxy",
+    "save game",
+    "exit game"
+  ],
+  "tags": ["game", "adventure", "entertainment"]
+}
